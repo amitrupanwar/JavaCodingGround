@@ -6,5 +6,7 @@ public class GitPractice {
 		System.out.println("Hello Git!!!");
 		
 		System.out.println("Addition from source tree");
+		
+		System.out.println("Addition from tortoise 2");
 	}
 }
