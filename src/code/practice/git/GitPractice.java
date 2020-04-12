@@ -12,6 +12,10 @@ public class GitPractice {
 		System.out.println("creating merge conflict from source tree");
 		
 		System.out.println("creating merge conflict #2 from toirtoise git");
+    
+    System.out.println("add from master tortoise!!!");
 		
-		System.out.println("add from master tortoise!!!");	}
+		System.out.println("Creating Pull request");
+	
+  }
 }
