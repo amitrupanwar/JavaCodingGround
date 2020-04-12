@@ -8,5 +8,7 @@ public class GitPractice {
 		System.out.println("Addition from source tree");
 		
 		System.out.println("Addition from tortoise 2");
+		
+		System.out.println("creating merge conflict #2 from toirtoise git");
 	}
 }
