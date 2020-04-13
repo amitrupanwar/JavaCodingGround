@@ -20,8 +20,6 @@ public class GitPractice {
 		System.out.println("changes #3");
 		
 		System.out.println("Revert this");
-		
-		System.out.println("Revert this #2");
 	
   }
 }
